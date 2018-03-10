@@ -9,7 +9,8 @@ in the gif that is contained in the main page when you run the app for the first
 ## Requirements
 
 The stylistic solutions are up to you, but here are the technical requirements for the project. Remember, you
-should show your mastery of React here, so keep that in mind when designing the solution.
+should show your mastery of React here, so keep that in mind when designing the solution. You can use npm packages
+as you see fit, keeping still in mind that this should show your programming abilities.
 
 ### Spicy tic-tac-toe squares
 
