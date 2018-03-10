@@ -87,7 +87,7 @@
     ],
     "globals": {
       "ts-jest": {
-        "tsConfigFile": "/Users/mnur/git/interviews/react-features-exercise/tsconfig.test.json"
+        "tsConfigFile": "./tsconfig.test.json"
       }
     }
   },
