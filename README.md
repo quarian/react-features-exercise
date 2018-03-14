@@ -8,7 +8,8 @@ your friend with differing opinions. You can see an example solution of the appl
 [here](https://react-features-exercise.herokuapp.com). The example application showcases the core features
 listed below - we expect slightly more polished answer from you, but the focus of the exercise is to use
 appropriate React features and provide a solid piece of software. The example solution also is not the
-perfect solution, so don't feel obligated to repeat the design choises made there.
+perfect solution (in fact, it contains many things that you should not do in your solution),
+so don't feel obligated to repeat the design choises made there.
 
 You are free to inject any amount of fun you wish to make the reviewers life funnier.
 
