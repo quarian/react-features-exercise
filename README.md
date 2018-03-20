@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## What's this?
 
-This exercise is a change for you to show off your React know-how. The task is to implement a tick-tack-toe
+This exercise is a change for you to show off your React know-how. The task is to implement a tic-tac-toe
 game to decide the Star Wars - Star Trek feud for all time. The game is played on the same computer against
 your friend with differing opinions. You can see an example solution of the application
 [here](https://react-features-exercise.herokuapp.com). The example application showcases the core features
@@ -23,7 +23,8 @@ as you see fit, keeping still in mind that this should show your programming abi
 
 Generate the tic-tac-toe squares based on the current player - Star Trek squares should be Star Trek themed,
 and vice versa. You should use an external API to fetch and display some data. The example uses
-[GIPHY](https://giphy.com/), and you can use that - API key will be supplied to you by the one who gives you this task.
+[GIPHY](https://giphy.com/), and you can use that or another API of your choice. A GIPHY API key will be
+supplied to you by the one who gives you this task if you need one.
 
 ### Spatial tic-tac-toe
 
